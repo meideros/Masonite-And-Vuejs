@@ -49331,7 +49331,7 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /var/www/html/Python/masonite_projects/all_in_one/resources/assets/js/app.js */"./resources/assets/js/app.js");
+module.exports = __webpack_require__(/*! /home/lucasdeveloper/Bureau/Masonite-And-Vuejs/resources/assets/js/app.js */"./resources/assets/js/app.js");
 
 
 /***/ })
